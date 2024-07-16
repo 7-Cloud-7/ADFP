@@ -1,0 +1,79 @@
+1670017057: mosquitto version 2.0.15 starting
+1670017057: Config loaded from /mosquitto/config/mosquitto.conf.
+1670017057: Opening ipv4 listen socket on port 1883.
+1670017057: Opening ipv6 listen socket on port 1883.
+1670017057: mosquitto version 2.0.15 running
+1670017064: mosquitto version 2.0.15 terminating
+1670017064: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670017081: mosquitto version 2.0.15 starting
+1670017081: Config loaded from /mosquitto/config/mosquitto.conf.
+1670017081: Opening ipv4 listen socket on port 1883.
+1670017081: Opening ipv6 listen socket on port 1883.
+1670017081: mosquitto version 2.0.15 running
+1670017142: New connection from 127.0.0.1:33428 on port 1883.
+1670017142: Client <unknown> closed its connection.
+1670017154: New connection from 127.0.0.1:33785 on port 1883.
+1670017154: Client 6PBlt06Dbr5sDHgm37uSvQ disconnected, not authorised.
+1670017176: mosquitto version 2.0.15 terminating
+1670017176: Saving in-memory database to /mosquitto/data//mosquitto.db.1677340087: mosquitto version 2.0.15 starting
+1677340087: Config loaded from /mosquitto/config/mosquitto.conf.
+1677340087: Opening ipv4 listen socket on port 1883.
+1677340087: Opening ipv6 listen socket on port 1883.
+1677340087: mosquitto version 2.0.15 running
+1677340096: mosquitto version 2.0.15 terminating
+1677340096: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1677340115: mosquitto version 2.0.15 starting
+1677340115: Config loaded from /mosquitto/config/mosquitto.conf.
+1677340115: Opening ipv4 listen socket on port 1883.
+1677340115: Opening ipv6 listen socket on port 1883.
+1677340115: mosquitto version 2.0.15 running
+1677340171: mosquitto version 2.0.15 terminating
+1677340171: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1677340187: mosquitto version 2.0.15 starting
+1677340187: Config loaded from /mosquitto/config/mosquitto.conf.
+1677340187: Opening ipv4 listen socket on port 1883.
+1677340187: Opening ipv6 listen socket on port 1883.
+1677340187: mosquitto version 2.0.15 running
+1677340572: mosquitto version 2.0.15 terminating
+1677340572: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1677340581: mosquitto version 2.0.15 starting
+1677340581: Config loaded from /mosquitto/config/mosquitto.conf.
+1677340581: Opening ipv4 listen socket on port 1883.
+1677340581: Opening ipv6 listen socket on port 1883.
+1677340581: mosquitto version 2.0.15 running
+1677340893: mosquitto version 2.0.15 terminating
+1677340893: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1677340982: mosquitto version 2.0.15 starting
+1677340982: Config loaded from /mosquitto/config/mosquitto.conf.
+1677340982: Opening ipv4 listen socket on port 1883.
+1677340982: Opening ipv6 listen socket on port 1883.
+1677340982: mosquitto version 2.0.15 running
+1679420603: mosquitto version 2.0.15 starting
+1679420603: Config loaded from /mosquitto/config/mosquitto.conf.
+1679420603: Opening ipv4 listen socket on port 1883.
+1679420603: Opening ipv6 listen socket on port 1883.
+1679420603: mosquitto version 2.0.15 running
+1679421248: mosquitto version 2.0.15 terminating
+1679421248: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680464133: mosquitto version 2.0.15 starting
+1680464133: Config loaded from /mosquitto/config/mosquitto.conf.
+1680464133: Opening ipv4 listen socket on port 1883.
+1680464133: Opening ipv6 listen socket on port 1883.
+1680464133: mosquitto version 2.0.15 running
+1680465036: New connection from 192.168.18.47:37237 on port 1883.
+1680465036: New client connected from 192.168.18.47:37237 as 4VGHmqyOW5K8kTCie7c421 (p2, c1, k60, u'tfc').
+1680465036: Client 4VGHmqyOW5K8kTCie7c421 disconnected.
+1680465036: New connection from 192.168.18.47:42431 on port 1883.
+1680465036: New client connected from 192.168.18.47:42431 as 1VzsyDFx9bHJTsve2ZnreU (p2, c1, k60, u'tfc').
+1680465239: mosquitto version 2.0.15 terminating
+1680465239: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1680465497: mosquitto version 2.0.15 starting
+1680465497: Config loaded from /mosquitto/config/mosquitto.conf.
+1680465497: Opening ipv4 listen socket on port 1883.
+1680465497: Opening ipv6 listen socket on port 1883.
+1680465497: mosquitto version 2.0.15 running
+1680465502: New connection from 192.168.18.47:57271 on port 1883.
+1680465502: New client connected from 192.168.18.47:57271 as 5AdYXDwYN3ueC3N22qlEps (p2, c1, k60, u'tfc').
+1680465617: Client 5AdYXDwYN3ueC3N22qlEps has exceeded timeout, disconnecting.
+1680466571: mosquitto version 2.0.15 terminating
+1680466571: Saving in-memory database to /mosquitto/data//mosquitto.db.

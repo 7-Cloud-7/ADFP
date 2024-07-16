@@ -1,0 +1,21 @@
+2023-04-02 21:58:22.715 WARNING (Recorder) [homeassistant.components.recorder.migration] Database is about to upgrade from schema version: 35 to: 33
+2023-04-02 21:58:46.682 ERROR (MainThread) [homeassistant.util.logging] Exception in state_received when handling msg on 'stat/8d41a302a6c5c83599556bb362a6816f/led1/power': 'OFF'
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/mqtt/debug_info.py", line 44, in wrapper
+    msg_callback(msg)
+  File "/usr/src/homeassistant/homeassistant/components/mqtt/light/schema_json.py", line 352, in state_received
+    values: dict[str, Any] = json_loads(msg.payload)
+orjson.JSONDecodeError: unexpected character: line 1 column 1 (char 0)
+
+2023-04-02 21:58:46.692 ERROR (MainThread) [homeassistant.util.logging] Exception in state_received when handling msg on 'stat/8d41a302a6c5c83599556bb362a6816f/led2/power': 'ON'
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/components/mqtt/debug_info.py", line 44, in wrapper
+    msg_callback(msg)
+  File "/usr/src/homeassistant/homeassistant/components/mqtt/light/schema_json.py", line 352, in state_received
+    values: dict[str, Any] = json_loads(msg.payload)
+orjson.JSONDecodeError: unexpected character: line 1 column 1 (char 0)
+
+2023-04-02 21:58:46.729 WARNING (MainThread) [homeassistant.components.sensor] Entity sensor.temperature (<class 'homeassistant.components.mqtt.sensor.MqttSensor'>) is using native unit of measurement 'F' which is not a valid unit for the device class ('temperature') it is using; expected one of ['K', '°F', '°C']; Please update your configuration if your entity is manually configured, otherwise create a bug report at https://github.com/home-assistant/core/issues?q=is%3Aopen+is%3Aissue+label%3A%22integration%3A+mqtt%22
+2023-04-02 22:03:00.218 ERROR (MainThread) [frontend.js.latest.202302020] :0:0 ResizeObserver loop completed with undelivered notifications.
+2023-04-02 22:03:53.765 WARNING (MainThread) [homeassistant.components.tasmota.discovery] Tasmota device 'Tasmota' with IP 192.168.0.123 doesn't set %prefix% in its topic
+2023-04-02 22:06:55.933 WARNING (MainThread) [homeassistant.components.sensor] Sensor sensor.tasmota_ds18b20_1_id has device class None, state class None and unit   thus indicating it has a numeric value; however, it has the non-numeric value: 020B91774E18 (<class 'str'>); Please update your configuration if your entity is manually configured, otherwise create a bug report at https://github.com/home-assistant/core/issues?q=is%3Aopen+is%3Aissue+label%3A%22integration%3A+tasmota%22
